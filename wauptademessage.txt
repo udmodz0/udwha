@@ -1,0 +1,10 @@
+{ "Gold": { "update_code": "8", "reminder_time": "3", "update_version": "v20.36", "com.whatsapp": "https://udwhatsapp.pages.dev", "update_message": " 
+<p>Update Vتحديث « 20.36</p>
+<li>تحديث جديد ممتع</li>
+<li>يحتوي على العديد من المزايا الجديد الرائعة</li>
+<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
+
+<li>new update</li>
+<li>It contains many great new features</li>
+<li>More important fixes and improvements</li>
+" } }

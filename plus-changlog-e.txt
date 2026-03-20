@@ -1,0 +1,18 @@
+What's new in this update V20.25
+
+ [Added] an increase in the video sending size.
+[Added] increased sending volume of audio clips.
+[Added] the option to send audio clips as a voice message or audio clips.
+[Added] and delete for everyone at any time.
+[Fixed] the crash when entering chat on some devices.
+[More] Many other fixes and improvements.
+
+ما الجديد في هذا التحديث V20.25
+
+
+[إضافة] زيادة في حجم إرسال الفيديو.
+[إضافة] زيادة في حجم إرسال المقاطع الصوتية.
+[إضافة] خيار إرسال مقاطع الصوت كرسالة صوتية أو مقاطع صوتي.
+[إضافة] الحذف لدى الجميع في أي وقت.
+[إصلاح] الانهيار عند الدخول الى الدردشة في بعض الاجهزة.
+[مزيد] العديد من الاصلاحات والتحسينات الاخرى.
