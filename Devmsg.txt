@@ -1,0 +1,4 @@
+{
+  "num": "3",
+  "msgs": "\nThank you for using UDWhatsApp ♡\nWe are pleased to inform you that this application is completely free and does not cost any money.\n\nIf a new update becomes available, you will automatically be notified by a message to ensure that you receive the latest new features and improvements.\n\nPlease accept our highest respect and appreciation.\n"
+}
